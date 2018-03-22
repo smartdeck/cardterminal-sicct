@@ -1,1 +1,1 @@
-# cardterminal-sicct
+# terminal-sicct
